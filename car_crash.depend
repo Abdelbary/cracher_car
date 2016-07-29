@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1469751659 source:/home/mahmoud/C-Development/car_crash/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<termios.h>
+	"firstscreen.h"
+	"initialization.h"
+	"play_screen.h"
+	"input_threads.h"
+
+1469750328 source:/home/mahmoud/C-Development/car_crash/firstscreen.c
+	<stdio.h>
+	<stdlib.h>
+	"initialization.h"
+
+1469751593 source:/home/mahmoud/C-Development/car_crash/initialization.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<termios.h>
+
+1469496399 /home/mahmoud/C-Development/car_crash/initialization.h
+
+1469750660 source:/home/mahmoud/C-Development/car_crash/play_screen.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"initialization.h"
+
+1469484884 /home/mahmoud/C-Development/car_crash/firstscreen.h
+
+1469521980 /home/mahmoud/C-Development/car_crash/play_screen.h
+
+1469751534 /home/mahmoud/C-Development/car_crash/input_threads.h
+
