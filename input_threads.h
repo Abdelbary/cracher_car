@@ -1,0 +1,6 @@
+#ifndef INPUT_THREADS_H_INCLUDED
+#define INPUT_THREADS_H_INCLUDED
+
+int kbhit(void);
+
+#endif // INPUT_THREADS_H_INCLUDED
